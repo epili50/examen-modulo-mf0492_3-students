@@ -1,0 +1,3 @@
+Se consulto al usuario: 45678901210
+Se consultó al usuario: 67890123456
+Se consultó al usuario: wew
